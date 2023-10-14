@@ -32,4 +32,5 @@ project.
 ## Project guides
 
 WIP:
-- [LED Traffic Light Simulator](./projects/arduino-LEDs/LEDs.html)
+- [LED Traffic Light Simulator](./projects/LED-lights/LEDs.html)
+- [LED screen](./projects/LED-screen/screen.html)
