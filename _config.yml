@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Arduino projects
+description: Documentation, explanation & code
 
-url: https://just-the-docs.github.io
+search_enabled: false
+heading_anchors: true
+color_scheme: dark
+ga_tracking: UA-158921873-1
+
+url: https://github.com/pdol9/docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/pdol9/docs
+
+theme: just-the-docs
